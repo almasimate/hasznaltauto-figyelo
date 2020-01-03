@@ -2,7 +2,7 @@
 Ez az alkalmazás képes a hasznaltauto.hu oldalon beállított keresések találatainak figyelésére. Ha a találatok között megjelenik egy új elem, akkor arról e-mail értesítést küld a főbb adatokkal és az oldal linkjével.
 
 ## Telepítés
-A telepítéshez vagy le kell klónozni ezt a tárolót
+A telepítéshez vagy le kell klónozni ezt a tárolótá
 ```
 git clone https://github.com/icebob/hasznaltauto-figyelo.git
 ```
